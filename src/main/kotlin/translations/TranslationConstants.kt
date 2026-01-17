@@ -21,7 +21,7 @@
 package com.demonwav.mcdev.translations
 
 object TranslationConstants {
-    const val DEFAULT_LOCALE = "en_us"
+    const val DEFAULT_LOCALE = "zh_cn"
     const val TRANSLATABLE_ANNOTATION = "com.demonwav.mcdev.annotations.Translatable"
     const val REQUIRED = "required"
     const val FOLD_METHOD = "foldMethod"
